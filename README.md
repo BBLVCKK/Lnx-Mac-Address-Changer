@@ -60,17 +60,17 @@ sudo python3 Lnx_MacAddress_Changer.py -i <interface> [options]
 - `r` : Generate a random MAC address
 
 ### Examples:
-- Change the MAC address:
+Change the MAC address:
    ```bash
    sudo python3 Lnx_MacAddress_Changer.py -i eth0 -m 00:11:22:33:44:55
    ```
 
-- Revert to the original MAC address:
+Revert to the original MAC address:
    ```bash
    sudo python3 Lnx_MacAddress_Changer.py -i eth0 -o
    ```
 
-- Generate a random MAC address:
+Generate a random MAC address:
    ```bash
    sudo python3 Lnx_MacAddress_Changer.py -i eth0 -r
    ```
