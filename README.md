@@ -1,8 +1,4 @@
-Here's an updated version of your README file, addressing the points you mentioned:
-
 ## Linux MAC Address Changer and Network Scanner
-
-## Description
 This tool allows users to change the MAC address of a specified network interface, revert it to the original MAC address, generate a random MAC address, and scan the network to display IP and MAC addresses of connected devices.
 
 ## Features
